@@ -1,0 +1,30 @@
+_repo: Permalaisten-uskonto_61164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harva, Uno
+    aliases:
+    - Holmberg-Harva, Uno
+    - Holmberg, Uno
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '51292'
+    url: http://www.gutenberg.org/2009/agents/51292
+    wikipedia: https://fi.wikipedia.org/wiki/Uno_Harva
+description: ''
+gutenberg_issued: '2020-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61164'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Komi -- Religion'
+- !lcsh 'Udmurts -- Religion'
+- !lcc 'BL'
+- !lcsh 'Permians -- Religion'
+- GITenberg
+title: Permalaisten uskonto
+url: http://www.gutenberg.org/ebooks/61164
